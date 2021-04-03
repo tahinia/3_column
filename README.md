@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![The Final Product](./Final.PNG)
+![The Final Product](.3_column/Final.PNG)
 
 
 ### Links
